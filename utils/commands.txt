@@ -1,0 +1,9 @@
+for main file execution
+python .\ADAS_driver_alertness_authentication_prog.py --input-media .\sample_videos\vid_2.mp4
+
+
+for face_detect_save file execution
+python .\face_detect_save.py --input-media ..\sample_videos\vid_2.mp4
+
+to install requirements.txt
+pip install -r requirements.txt

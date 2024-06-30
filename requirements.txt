@@ -1,0 +1,23 @@
+# requirements.txt
+
+# OpenCV for computer vision tasks
+opencv-python==4.8.1.78
+
+# NumPy for numerical operations
+numpy>=1.21.1
+
+# Mediapipe for face mesh processing
+mediapipe>=0.8.6
+
+# ONNX Runtime for running ONNX models
+onnxruntime>=1.10.0
+
+# Utils folder with yunet and sface modules
+# Replace this with the correct path if it's a separate package
+./utils
+
+# Imutils for convenience functions for OpenCV
+imutils>=0.5.4
+
+# Pygame for playing audio alerts
+pygame>=2.0.1
